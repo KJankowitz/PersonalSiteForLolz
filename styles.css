@@ -1,15 +1,12 @@
-
 body {
     background-color: rgb(46, 47, 48);
     margin: 0;
 }
-
 .heading {
     display:block;
     text-align: center;
     padding: 10px 2px 10px 2px;
 }
-
 h1 {
     font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif;
     font-size: 5rem;
