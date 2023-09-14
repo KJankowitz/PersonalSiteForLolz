@@ -21,11 +21,9 @@ h2, h3, p, li, a {
     background-size: cover;
     position: relative
 }
-
 .heading {
     color:aliceblue; 
 }
-
 .about-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -45,7 +43,6 @@ h2, h3, p, li, a {
         text-align: center;
         column-gap: 2rem;
     }
-
     #gymbro {
         order:1;
     }
@@ -61,19 +58,15 @@ h2, h3, p, li, a {
     #programmer {
         order:5;
     }
-    
 }
 .grid-img > img{
    height: 12em;
-   
    border-radius: 5px;
 }
-
 .stuff-container {
     display:flex;
     justify-content: center;
 }
-
 .bottom-container {
     display: flex;
     justify-content: space-between
